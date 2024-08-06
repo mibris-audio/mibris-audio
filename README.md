@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mibris-audio
-- 👀 I’m interested in Music Production and a tiny bit of coding
-- 🌱 I’m currently learning Godot
+- 👀 I’m interested in Music Production and a bit of coding
+- 🌱 I’m currently messing around with python
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 'Fun Fact'
 
 <!---
 mibris-audio/mibris-audio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
